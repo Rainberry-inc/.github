@@ -8,7 +8,7 @@
 # We have attempted to detect the languages in your repository. Please check
 # the `language` matrix defined below to confirm you have the correct set of
 # supported CodeQL languages.
-#
+# [![bittorrent](https://github.com/Rainberry-inc/.github/actions/workflows/codeql-analysis.yml/badge.svg?branch=gh-pages&event=workflow_run)](https://github.com/Rainberry-inc/.github/actions/workflows/codeql-analysis.yml)
 name: "bittorrent"
 
 on:
