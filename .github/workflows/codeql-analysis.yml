@@ -11,6 +11,7 @@
 #
 name: "bittorrent"
 
+[![bittorrent](https://github.com/Rainberry-inc/.github/actions/workflows/codeql-analysis.yml/badge.svg?branch=gh-pages&event=workflow_run)](https://github.com/Rainberry-inc/.github/actions/workflows/codeql-analysis.yml)
 on:
   push:
     branches: [ "main" ]
